@@ -1,0 +1,12 @@
+app:
+  name: "SHIVAM VINOD PANDEY"         # <--- change
+  regNo: "22bce7605"        
+  email: "shivam.22bce7605@vitapstudent.ac.in" 
+
+endpoints:
+  generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+  submit: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO

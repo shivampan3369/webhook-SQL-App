@@ -1,0 +1,11 @@
+com\example\bfhl\BfhlJavaQualifierApplication.class
+com\example\bfhl\service\ApiService.class
+com\example\bfhl\config\WebClientConfig.class
+com\example\bfhl\util\SolutionStore.class
+com\example\bfhl\dto\GenerateWebhookRequest$GenerateWebhookRequestBuilder.class
+com\example\bfhl\dto\SubmissionRequest.class
+com\example\bfhl\service\SqlSolver.class
+com\example\bfhl\dto\GenerateWebhookRequest.class
+com\example\bfhl\dto\GenerateWebhookResponse.class
+com\example\bfhl\service\SqlSolverImpl.class
+com\example\bfhl\StartupRunner.class
